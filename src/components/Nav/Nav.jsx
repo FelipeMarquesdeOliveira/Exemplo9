@@ -1,7 +1,8 @@
 const Nav = () => {
     return(
         <>
-        <h1>Nav</h1>
+        <Link to="/">Home</Link>
+        <Link to="/produto">Produto</Link>
         </>
     )
 }
